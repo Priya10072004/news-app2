@@ -1,0 +1,9 @@
+# Query: world
+# ContextLines: 1
+
+1 result - 1 file
+
+src\components\NavbarComponent.jsx:
+  25              <div className='navbar__logo'>
+  26:                 <h2  onClick={()=> {setActive("Home"); navigate("/")}} >www news</h2>
+  27              </div>
